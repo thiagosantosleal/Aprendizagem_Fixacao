@@ -7,8 +7,8 @@ O objetivo é demonstrar minhas habilidades em Quality Assurance, aplicando dife
 ## 🔧 Tecnologias e Ferramentas
 
 * Testes Web: Cypress, Playwright, Selenium
-* Testes de API: Postman / Swagger
-* Testes Mobile: Appium / Robot Framework
+* Testes de API: Postman, Rest Assured
+* Testes Mobile: Appium, Robot Framework
 * Testes Não Funcionais: JMeter, k6
 * Linguagens: Java, JavaScript, TypeScript, Python, C#
 
@@ -18,7 +18,7 @@ O objetivo é demonstrar minhas habilidades em Quality Assurance, aplicando dife
 * Testes de API
 * Testes Mobile
 * Testes de Performance (não funcionais)
-* Testes exploratórios, regressivos, unitários, integração e validações funcionais
+* Testes exploratórios e validações funcionais
 
 ## 📚 Projetos Incluídos
 
@@ -26,12 +26,21 @@ Entre os projetos disponíveis neste portfólio, destacam-se:
 
 * Automação Web com Cypress
 * Automação Web com Playwright
+* Automação Web com Selenium em C#
+* Implementação do padrão Page Object Model (POM) com Selenium em C#
+* Automação de APIs com Rest Assured (Java)
 * Automação Mobile com Appium
 * Automação Mobile com Robot Framework
 * Testes de Performance com JMeter
 * Testes de Performance com k6
-* Automação Web com Selenium em C#
-* Implementação do padrão Page Object Model (POM) com Selenium em C#
+
+## 🏗️ Frameworks e Padrões Aplicados
+
+* Page Object Model (POM)
+* Boas práticas de automação de testes
+* Estruturação de projetos de automação
+* Automação de APIs REST
+* Validações funcionais e de integração
 
 ## 🎯 Objetivo do Repositório
 
@@ -59,4 +68,4 @@ Os projetos aqui presentes representam diferentes cenários de aprendizado e evo
 
 ---
 
-📌 Este repositório faz parte do meu portfólio profissional como QA, demonstrando conhecimentos em automação de testes web, mobile, API e performance utilizando diferentes tecnologias do mercado.
+📌 Este repositório faz parte do meu portfólio profissional como QA Engineer, demonstrando conhecimentos em automação de testes web, mobile, API e performance utilizando diferentes tecnologias do mercado.
