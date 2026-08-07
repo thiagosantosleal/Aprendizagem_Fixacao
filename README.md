@@ -24,13 +24,12 @@ O objetivo é demonstrar minhas habilidades em Quality Assurance, aplicando dife
 
 Entre os projetos disponíveis neste portfólio, destacam-se:
 
-* Automação Web com Cypress
-* Automação Web com Playwright
+* Automação Web e API com Cypress
+* Automação Web e API com Playwright
 * Automação Web com Selenium em C#
-* Implementação do padrão Page Object Model (POM) com Selenium em C#
 * Automação de APIs com Rest Assured (Java)
-* Automação Mobile com Appium
-* Automação Mobile com Robot Framework
+* Automação Mobile com Appium e Robot Framework
+* Automação Web e API com Robot Framework
 * Testes de Performance com JMeter
 * Testes de Performance com k6
 
@@ -64,7 +63,7 @@ Cada arquivo contém um projeto completo de automação, incluindo:
 
 ## 📌 Observações
 
-Os projetos aqui presentes representam diferentes cenários de aprendizado e evolução técnica, podendo variar em complexidade, arquitetura e abordagem conforme o contexto de estudo.
+Os projetos aqui presentes representam diferentes cenários de aprendizado e evolução técnica, podendo variar em complexidade, arquitetura e abordagem conforme o contexto de estudo. E estão no formato ".rar" contendo todo conteúdo de pastas e arquivos.
 
 ---
 
