@@ -6,7 +6,7 @@ O objetivo é demonstrar minhas habilidades em Quality Assurance, aplicando dife
 
 ## 🔧 Tecnologias e Ferramentas
 
-* Testes Web: Cypress, Playwright, Selenium
+* Testes Web: Cypress, Playwright, Selenium, Robot Framework
 * Testes de API: Postman, Rest Assured
 * Testes Mobile: Appium, Robot Framework
 * Testes Não Funcionais: JMeter, k6
@@ -16,9 +16,10 @@ O objetivo é demonstrar minhas habilidades em Quality Assurance, aplicando dife
 
 * Testes End-to-End (E2E)
 * Testes de API
+* Testes Web
 * Testes Mobile
 * Testes de Performance (não funcionais)
-* Testes exploratórios e validações funcionais
+* Testes Funcionais
 
 ## 📚 Projetos Incluídos
 
